@@ -67,7 +67,7 @@ span{
     grid-template-rows: 1fr 2fr 2fr;
     grid-gap: 12px;
     padding: 12px;
-    text-align-last: center;
+    text-align: center;
 }
 
 .article-heading{
